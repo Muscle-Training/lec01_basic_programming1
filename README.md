@@ -6,10 +6,13 @@
 - `print`関数を用いて、`src/p111.py`のファイルを実行すると`Hello World`が表示されるプログラムを実装せよ
 
 ### 問題1-1-2 (src/p112.py)
-- `print`関数を用いて、`src/p112.py`のファイルを実行すると $4+4\times5$ の結果が表示されるプログラムを実装せよ
+- `print`関数を用いて、`src/p112.py`のファイルを実行すると ![4 + 4\times5
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+4+%2B+4%5Ctimes5%0A)
+ の結果が表示されるプログラムを実装せよ
 
 ### 問題1-1-3 (src/p113.py)
-- `print`関数を用いて、`src/p113.py`のファイルを実行すると $4-4^{5}$ の結果が表示されるプログラムを実装せよ
+- `print`関数を用いて、`src/p113.py`のファイルを実行すると ![4 + 4^5
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+4+%2B+4%5E5%0A) の結果が表示されるプログラムを実装せよ
 
 ## 1-2. 変数と計算
 
